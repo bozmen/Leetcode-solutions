@@ -1,7 +1,7 @@
+package leetcode;
+
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 /**
  * Created by burak on 11/26/2016.
@@ -99,7 +99,7 @@ public class Trie {
     }
 }
 
-// Your Trie object will be instantiated and called as such:
-// Trie trie = new Trie();
+// Your leetcode.Trie object will be instantiated and called as such:
+// leetcode.Trie trie = new leetcode.Trie();
 // trie.insert("somestring");
 // trie.search("key");

@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.util.Arrays;
 
 /**
@@ -114,7 +116,7 @@ class WordDictionaryNode {
     }
 }
 
-// Your WordDictionary object will be instantiated and called as such:
-// WordDictionary wordDictionary = new WordDictionary();
+// Your leetcode.WordDictionary object will be instantiated and called as such:
+// leetcode.WordDictionary wordDictionary = new leetcode.WordDictionary();
 // wordDictionary.addWord("word");
 // wordDictionary.search("pattern");
